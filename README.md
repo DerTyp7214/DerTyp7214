@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=dertyp7214&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) 
 
