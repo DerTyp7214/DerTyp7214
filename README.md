@@ -8,5 +8,5 @@
 
 [![Overlayer](https://github-readme-stats.vercel.app/api/pin/?username=dertyp7214&repo=Overlayer&show_owner=true&theme=gotham)](https://github.com/DerTyp7214/Overlayer)
 [![RootUtils](https://github-readme-stats.vercel.app/api/pin/?username=dertyp7214&repo=RootUtils&show_owner=true&theme=gotham)](https://github.com/DerTyp7214/RootUtils)
-[![Rboard Theme Manager](https://github-readme-stats.vercel.app/api/pin/?username=dertyp7214&repo=Rboard-Theme-Manager&show_owner=true&theme=gotham)](https://github.com/DerTyp7214/Rboard-Theme-Manager)
+[![Rboard Theme Manager V3](https://github-readme-stats.vercel.app/api/pin/?username=dertyp7214&repo=RboardThemeManagerV3&show_owner=true&theme=gotham)](https://github.com/DerTyp7214/RboardThemeManagerV3)
 [![DiscordUserApi](https://github-readme-stats.vercel.app/api/pin/?username=dertyp7214&repo=DiscordUserApi&show_owner=true&theme=gotham)](https://github.com/DerTyp7214/DiscordUserApi)
